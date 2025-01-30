@@ -9,6 +9,7 @@ from urllib.parse import urlparse
 
 os.environ['MLFLOW_TRACKING_URI']="https://dagshub.com/kapilpathak1112/DiabetesPredictionDagshubMLFlow.mlflow"
 os.environ['MLFLOW_TRACKING_USERNAME']="kapilpathak1112"
+os.environ["MLFLOW_TRACKING_PASSWORD"]="dce77b453eba613b4c6997e0f81b26bd890852c3"
 
 
 # Load parameters from params.yaml
